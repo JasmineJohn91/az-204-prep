@@ -1,10 +1,12 @@
-Develop Azure compute solutions (25-30%)
-Implement IaaS solutions
+<h1>Develop Azure compute solutions (25-30%)</h1>
+<h2>Implement IaaS solutions</h2>
 
-Provision VMs
-https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-powershell
-https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-manage-vm?WT.mc_id=thomasmaurer-blog-thmaure
+<h3>1.Provision VMs</h3>
+<a href='https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview'>1.1 VM Overview</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-powershell'>1.2 VM Quick Start</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-manage-vm'>1.3 VM Tutorials</a><p>Good to read all 15 items under tutorials</p><br>
 https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/tutorial-autoscale-powershell?toc=/azure/azure-monitor/toc.json
+
 Configure VMs for remote access
 Configure Just-in-time access to a VM
 https://docs.microsoft.com/en-us/azure/marketplace/partner-center-portal/create-azure-vm-technical-asset?WT.mc_id=thomasmaurer-blog-thmaure
@@ -29,7 +31,7 @@ https://docs.microsoft.com/en-us/azure/container-instances/container-instances-t
 https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli?WT.mc_id=thomasmaurer-blog-thmaure
 
 Run containers by using Azure Container Instance
-Run Docker containers with Azure Container Instances (Microsoft Learn Module)
+Run Docker containers with Azure Container InstancesÂ (Microsoft Learn Module)
 What is Azure Container Instances?
 Quickstart: Deploy a container instance in Azure using the Azure CLI
 Quickstart: Deploy a container instance in Azure using the Azure portal
