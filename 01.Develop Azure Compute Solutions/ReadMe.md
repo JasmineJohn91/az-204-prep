@@ -5,19 +5,17 @@
 <a href='https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview'>1.1 VM Overview</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-powershell'>1.2 VM Quick Start</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-manage-vm'>1.3 VM Tutorials</a><p>Good to read all 15 items under tutorials</p><br>
-https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/tutorial-autoscale-powershell?toc=/azure/azure-monitor/toc.json
+<a href='https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/tutorial-autoscale-powershell'>1.4 VM Auto Scaling</a><br>
 
-Configure VMs for remote access
-Configure Just-in-time access to a VM
-https://docs.microsoft.com/en-us/azure/marketplace/partner-center-portal/create-azure-vm-technical-asset?WT.mc_id=thomasmaurer-blog-thmaure
+<h3>2.Configure VMs for remote access</h3>
+<a href='https://docs.microsoft.com/en-us/azure/security-center/security-center-just-in-time'>2.1 Configure Just-in-time access to a VM</a><br>
 
-Create ARM templates
-https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-the-portal
-https://docs.microsoft.com/en-us/azure/architecture/building-blocks/extending-templates/?WT.mc_id=thomasmaurer-blog-thmaure
-https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview?WT.mc_id=thomasmaurer-blog-thmaure
-https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-create-first-template?WT.mc_id=thomasmaurer-blog-thmaure&tabs=azure-powershell
-https://docs.microsoft.com/en-us/azure/templates/
-https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-functions
+<h3>3.Create ARM templates</h3>
+<a href='https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview'>3.1 ARM Templates Overview</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-the-portal'>3.2 ARM Templates Quickstart</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/architecture/building-blocks/extending-templates'>3.3 Extending ARM Templates</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-create-first-template'>3.4 ARM Templare Tutorials</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-functions'>3.5 ARM Template Functions</a><br>
 
 Create container images for solutions by using Docker
 https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-app
