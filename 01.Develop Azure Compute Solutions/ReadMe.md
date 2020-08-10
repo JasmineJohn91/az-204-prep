@@ -4,7 +4,7 @@
 <h3>1.Provision VMs</h3>
 <a href='https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview'>1.1 VM Overview</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-powershell'>1.2 VM Quick Start</a><br>
-<a href='https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-manage-vm'>1.3 VM Tutorials</a><p>Good to read all 15 items under tutorials</p><br>
+<a href='https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-manage-vm'>1.3 VM Tutorials</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/tutorial-autoscale-powershell'>1.4 VM Auto Scaling</a><br>
 
 <h3>2.Configure VMs for remote access</h3>
