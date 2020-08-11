@@ -13,7 +13,7 @@
 <a href='https://docs.microsoft.com/en-au/learn/paths/deploy-a-website-with-azure-app-service/'>3. Azure App services</a><br>
 
 <h3>3. Microsoft Documents</h3>
-Micorosoft document is added in below link with section details for your reference. <br>
+Micorosoft documents are added in below link with section details for your reference. <br>
 <a href='https://github.com/JasmineJohn91/az-204-prep/blob/master/01.Develop%20Azure%20Compute%20Solutions/MS%20Documents.md'>Develop Azure Compute Solutions -Microsoft Documents </a></br>
 
 <h4>4. Labs</h3>
