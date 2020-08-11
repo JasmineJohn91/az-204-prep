@@ -17,30 +17,31 @@
 <a href='https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-create-first-template'>3.4 ARM Templare Tutorials</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-functions'>3.5 ARM Template Functions</a><br>
 
-Create container images for solutions by using Docker
-https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-app
-Tutorial: Build and deploy container images in the cloud with Azure Container Registry Tasks
-Tutorial: Create container images on a Linux Service Fabric cluster
-Tutorial: Create a container image for deployment to Azure Container Instances
-Build and store container images with Azure Container Registry
+<h3>4.Create container images for solutions by using Docker</h3>
+If you are new to docker, it's good to get basic idea from the below plural sightvideo and docker basics document.
+Video : <a href='https://app.pluralsight.com/library/courses/microsoft-azure-containers-deploying-managing/table-of-contents'>Deploying and Managing Containers </a><br>
+Document: <a href='https://docs.docker.com/get-started/overview/'>Docker Basics</a><br>
 
-Publish an image to the Azure Container Registry
-https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-acr#push-image-to-azure-container-registry
-https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli?WT.mc_id=thomasmaurer-blog-thmaure
+<a href='https://docs.microsoft.com/en-us/azure/container-registry/container-registry-intro'>4.1 Private container registry in azure- Overview </a><br>
+<a href='https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview'>4.2 Azure Container Instance Overview </a><br>
+<a href='https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-app'>4.3 Tutorial Create and Deploy container image</a><br>
+<a href='https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/'>4.4 Build and Store Azure Container Images</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/container-registry/container-registry-tutorial-quick-task'>4.5 Automate container image builds</a><br>
 
-Run containers by using Azure Container Instance
-Run Docker containers with Azure Container Instances (Microsoft Learn Module)
-What is Azure Container Instances?
-Quickstart: Deploy a container instance in Azure using the Azure CLI
-Quickstart: Deploy a container instance in Azure using the Azure portal
-Quickstart: Deploy a container instance in Azure using Azure PowerShell
-Tutorial: Deploy a container application to Azure Container Instances
-https://docs.microsoft.com/en-us/azure/container-instances/container-instances-volume-secret
-https://devblogs.microsoft.com/cse/2018/02/15/copy-custom-vm-images-on-azure/
+<h3>5.Publish an image to the Azure Container Registry</h3>
+<a href='https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-acr'>5.1 Create ACR and Push Images</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli'>5.2 Push images to container registry using CLI</a><br>
 
-Create Azure App Service Web Apps
+<h3>6.Run containers by using Azure Container Instance</h3>
+<a href='https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-deploy-app'>6.1 Deploy container application to azure container instance</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart'>6.2 Container Instances Quickstart</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/container-instances/container-instances-volume-secret'>6.3 Mount a secret volume to azure container instance</a><br>
 
-Create an Azure App Service Web App
+<b>Learning Module</b><a href='https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/'>Run docker with azure container instances</a><br>
+
+<h2>Create Azure App Service Web Apps</h2>
+
+<h3>Create an Azure App Service Web App</h3>
 https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-dotnet
 
 Enable diagnostics logging
