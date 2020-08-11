@@ -21,7 +21,7 @@
 If you are new to docker, it's good to get basic idea from the below plural sightvideo and docker basics document.<br>
 Video : <a href='https://app.pluralsight.com/library/courses/microsoft-azure-containers-deploying-managing/table-of-contents'>Deploying and Managing Containers </a><br>
 Document: <a href='https://docs.docker.com/get-started/overview/'>Docker Basics</a><br>
-
+<br>
 <a href='https://docs.microsoft.com/en-us/azure/container-registry/container-registry-intro'>4.1 Private container registry in azure- Overview </a><br>
 <a href='https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview'>4.2 Azure Container Instance Overview </a><br>
 <a href='https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-app'>4.3 Tutorial Create and Deploy container image</a><br>
@@ -37,9 +37,9 @@ Document: <a href='https://docs.docker.com/get-started/overview/'>Docker Basics<
 <a href='https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-deploy-app'>6.1 Deploy container application to azure container instance</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart'>6.2 Container Instances Quickstart</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/container-instances/container-instances-volume-secret'>6.3 Mount a secret volume to azure container instance</a><br>
-
+<br>
 <b>Learning Module: </b><a href='https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/'> Run docker with azure container instances</a><br>
-
+<br>
 <h2>Create Azure App Service Web Apps</h2>
 
 <h3>1.Create an Azure App Service Web App</h3>
@@ -53,9 +53,9 @@ Document: <a href='https://docs.docker.com/get-started/overview/'>Docker Basics<
 
 <h3>3.Enable diagnostics logging</h3>
 <a href='https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-diagnostic-logs'>3.1 Enable diagnostics logging for apps</a><br>
-
+<br>
 <b>Learning Module: </b><a href='https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/?WT.mc_id=thomasmaurer-blog-thmaure'> Capture Web Application Logs with App Service Diagnostics Logging</a><br>
-
+<br>
 <h3>4.Configure web app settings</h3>
 <a href='https://docs.microsoft.com/en-us/azure/app-service/configure-common'>4.1 Common configuration</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-rest-api'>4.2 REST API with CORS functionality</a><br>
@@ -74,7 +74,6 @@ Document: <a href='https://docs.docker.com/get-started/overview/'>Docker Basics<
 <a href='https://docs.microsoft.com/en-us/azure/app-service/manage-scale-up'>6.5 Scale up an app in azure services</a><br>
 
 <h2>Implement Azure functions</h2>
-
 <h3>1.Implement input and output bindings for a function</h3>
 <a href='https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview'>1.1 Azure Functions Overview</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings'>1.2 Azure Functions triggers and bindings concepts</a><br>
@@ -89,7 +88,7 @@ Document: <a href='https://docs.docker.com/get-started/overview/'>Docker Basics<
 <a href='https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-create-portal'>3.2 Create Durable Function in Azure Portal</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-create-first-csharp'>3.3 Create your first durable function in C#</a><br>
 
-<h2>Additional Links:<h2>
+<h2>Additional Links:</h2>
 <b>Pricing:</b><a href='https://azure.microsoft.com/en-us/pricing/details/app-service/windows/'>Azure App Service Pricing</a><br>
 <b>App workflow:</b><a href='https://docs.microsoft.com/en-us/dotnet/architecture/microservices/docker-application-development-process/docker-app-development-workflow'>Docker app workflow</a><br>
   
