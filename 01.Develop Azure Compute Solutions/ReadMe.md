@@ -1,7 +1,7 @@
 <h1>Develop Azure compute solutions (25-30%)</h1>
 
 <h2>1. Pluralsight Videos</h2>
-<p>Below pluralsight videos gives an better understanding of Azure basics ,Virtual Machines and Docker Containers. My suggestion would be to watch these videos before reading further documents. You can get overview of azure and VMs from these videos. 
+<p>Below pluralsight videos gives an better understanding of Azure basics ,Virtual Machines and Docker Containers. My suggestion would be to watch these videos before reading further documents. You can get an overview of azure and VMs from these videos. 
   
 <a href='https://app.pluralsight.com/library/courses/microsoft-azure-virtual-machines-provisioning/table-of-contents'>1. Provisioning Microsoft Azure Virtual Machines </a><br>
 <a href='https://app.pluralsight.com/library/courses/microsoft-azure-deploying-multiple-virtual-machines/table-of-contents'>2. Deploying Multiple Virtual Machines in Microsoft Azure </a><br>
