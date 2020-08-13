@@ -1,5 +1,5 @@
 <h1>Develop Azure compute solutions (25-30%)</h1>
-<h2>Implement IaaS solutions</h2>
+<h2>A.Implement IaaS solutions</h2>
 
 <h3>1.Provision VMs</h3>
 <a href='https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview'>1.1 VM Overview</a><br>
@@ -40,7 +40,7 @@ Document: <a href='https://docs.docker.com/get-started/overview/'>Docker Basics<
 <br>
 <b>Learning Module: </b><a href='https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/'> Run docker with azure container instances</a><br>
 <br>
-<h2>Create Azure App Service Web Apps</h2>
+<h2>B.Create Azure App Service Web Apps</h2>
 
 <h3>1.Create an Azure App Service Web App</h3>
 <a href='https://docs.microsoft.com/en-us/azure/app-service/overview'>1.1 Web app overview</a><br>
@@ -73,7 +73,7 @@ Document: <a href='https://docs.docker.com/get-started/overview/'>Docker Basics<
 <a href='https://docs.microsoft.com/en-us/azure/azure-monitor/platform/autoscale-common-scale-patterns'>6.4 common autoscale patterns</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/app-service/manage-scale-up'>6.5 Scale up an app in azure services</a><br>
 
-<h2>Implement Azure functions</h2>
+<h2>C.Implement Azure functions</h2>
 <h3>1.Implement input and output bindings for a function</h3>
 <a href='https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview'>1.1 Azure Functions Overview</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings'>1.2 Azure Functions triggers and bindings concepts</a><br>
@@ -88,7 +88,7 @@ Document: <a href='https://docs.docker.com/get-started/overview/'>Docker Basics<
 <a href='https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-create-portal'>3.2 Create Durable Function in Azure Portal</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-create-first-csharp'>3.3 Create your first durable function in C#</a><br>
 
-<h2>Additional Links:</h2>
+<h2>D.Additional Links:</h2>
 <b>Pricing:</b><a href='https://azure.microsoft.com/en-us/pricing/details/app-service/windows/'>Azure App Service Pricing</a><br>
 <b>App workflow:</b><a href='https://docs.microsoft.com/en-us/dotnet/architecture/microservices/docker-application-development-process/docker-app-development-workflow'>Docker app workflow</a><br>
   
