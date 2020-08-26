@@ -26,6 +26,38 @@
 <a href='https://docs.microsoft.com/en-us/azure/cosmos-db/how-to-time-to-live'>5.2 Configure TTL in Azure Cosmos DB</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/cosmos-db/how-to-manage-indexing-policy'>5.3 Manage indexing policies</a><br>
 
+<h3>6.Implement scaling (partitions, containers)</h3>
+<a href='https://docs.microsoft.com/en-us/azure/cosmos-db/partition-data'>6.1 Partitioning & Horizontal scaling in Azure Cosmos DB</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/cosmos-db/how-to-provision-autoscale-throughput'>6.2 Scaling Azure Cosmos DB Containers</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/cosmos-db/databases-containers-items'>6.3 Work with databases, containers, and items in Azure Cosmos DB</a><br>
+
+<h3>7.Implement server-side programming including stored procedures, triggers, and change feed notifications</h3>
+<a href='https://azure.microsoft.com/en-in/resources/videos/azure-cosmosdb-server-side-programmability/'>Server side programmability</a><br>
+
+<h4>7.1 Stored Procedures in Azure Cosmos DB</h4>
+<a href='https://docs.microsoft.com/en-us/azure/cosmos-db/how-to-write-stored-procedures-triggers-udfs#stored-procedures'>7.1.1 How to write Stored Procedures in Azure Cosmos DB</a><br>
+<a href='https://docs.microsoft.com/en-us/rest/api/cosmos-db/stored-procedures'>7.1.2 Writing Stored Procedures in Azure Cosmos DB</a><br>
+
+<h4>7.2 Triggers in Azure Cosmos DB</h4>
+<a href='https://docs.microsoft.com/en-us/azure/cosmos-db/how-to-write-stored-procedures-triggers-udfs#triggers'>7.2.1 How to write Triggers in Azure Cosmos DB</a><br>
+<a href='https://docs.microsoft.com/en-us/rest/api/cosmos-db/triggers'>7.2.2 Writing Triggers in Azure Cosmos DB</a><br>
+
+<h4>7.3 Change Feed Notifications</h4>
+<a href='https://docs.microsoft.com/en-us/azure/cosmos-db/change-feed'>7.3.1 Change feed in Azure Cosmos DB</a><br>
+
+Plural sight video https://app.pluralsight.com/library/courses/building-event-driven-microservices-azure-cosmos-db-change-feed/table-of-contents - Introduction part explains change feed better.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
