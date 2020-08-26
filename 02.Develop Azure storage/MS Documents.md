@@ -69,7 +69,7 @@
 
 <h3>4.Set and retrieve properties and metadata</h3>
 <a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-properties-metadata'>4.1 Manage properties and meta data</a><br>
-<a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-list'>4.2 Create and Manage Blobs</a><br/>
+<a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-list'>4.2 Create and Manage Blobs</a><br/><br/>
 
 <b>Pluralsight Video :</b> Implementing Blob Storage - 6. Storing Metadata on Your Blobs explains blob meta data well.<br/>
 https://app.pluralsight.com/course-player?clipId=c48dcee7-a51f-40c0-aad3-e60f3d7a4ca2 <br/>
