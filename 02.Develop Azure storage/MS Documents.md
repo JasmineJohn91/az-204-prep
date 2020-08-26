@@ -1,5 +1,5 @@
 <h1>Develop Azure storage (10-15%)</h1>
-<h2>A.Develop Solutions That Use Cosmos DB Storage</h2>
+<h2>A.Develop Solutions that use Cosmos DB Storage</h2>
 
 <h3>1.Cosmos DB Introduction</h3>
 <a href='https://docs.microsoft.com/en-us/azure/cosmos-db/introduction'>1.1 Cosmos DB Overview</a><br>
@@ -45,14 +45,14 @@
 <h4>7.3 Change Feed Notifications</h4>
 <a href='https://docs.microsoft.com/en-us/azure/cosmos-db/change-feed'>7.3.1 Change feed in Azure Cosmos DB</a><br>
 <br/>
-Plural sight video https://app.pluralsight.com/library/courses/building-event-driven-microservices-azure-cosmos-db-change-feed/table-of-contents - Introduction part explains change feed better.
+<b>Plural sight video:</b> https://app.pluralsight.com/library/courses/building-event-driven-microservices-azure-cosmos-db-change-feed/table-of-contents - Introduction part explains change feed better.
 
 <h3>8 Table API in Azure Cosmos DB</h4>
 <a href='https://docs.microsoft.com/en-us/azure/cosmos-db/table-introduction'>8.1 Introduction to Azure Cosmos DB: Table API</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/cosmos-db/create-table-dotnet'>8.2 Build a Table API app with .NET SDK and Azure Cosmos DB</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/cosmos-db/tutorial-query-table'>8.3 Tutorial: Query Azure Cosmos DB by using the Table API</a><br>
 
-<h2>B.Develop Solutions That Use Blob Storage</h2>
+<h2>B.Develop Solutions that use Blob Storage</h2>
 
 <h3>1.Blob storage introduction</h3>
 <a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-overview'>1.1 Blob storage Overview</a><br>
@@ -69,9 +69,9 @@ Plural sight video https://app.pluralsight.com/library/courses/building-event-dr
 
 <h3>4.Set and retrieve properties and metadata</h3>
 <a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-properties-metadata'>4.1 Manage properties and meta data</a><br>
-<a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-list'>4.2 Create and Manage Blobs</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-list'>4.2 Create and Manage Blobs</a><br/>
 
-Pluralsight Video : Implementing Blob Storage - 6. Storing Metadata on Your Blobs explains blob meta data well.<br/>
+<b>Pluralsight Video :</b> Implementing Blob Storage - 6. Storing Metadata on Your Blobs explains blob meta data well.<br/>
 https://app.pluralsight.com/course-player?clipId=c48dcee7-a51f-40c0-aad3-e60f3d7a4ca2 <br/>
 
 <h3>5.Interact with data using the appropriate SDK</h3>
