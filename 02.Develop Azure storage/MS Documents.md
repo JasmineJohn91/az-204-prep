@@ -59,29 +59,35 @@ Plural sight video https://app.pluralsight.com/library/courses/building-event-dr
 <a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-portal'>1.2 Create and Manage Blobs in Azure Portal</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-upload-process-images'>1.3 Tutorial- Upload image data in the cloud with Azure Storage</a><br>
 
-////need to correct///
 <h3>2.Move items in blob storage between storage accounts or containers</h3>
-<a href='https://docs.microsoft.com/en-us/azure/cosmos-db/introduction'>1.1 Cosmos DB Overview</a><br>
+<a href='https://docs.microsoft.com/en-us/learn/modules/copy-blobs-from-command-line-and-code/'>2.1 Copy and Move Blobs</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-blobs'>2.2 Transfer data with AzCopy and Blob storage</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-cli'>2.3 Using the Azure CLI with Azure Storage</a><br>
 
-https://docs.microsoft.com/en-us/learn/modules/copy-blobs-from-command-line-and-code/3-move-blobs-using-cli
-Transfer data with AzCopy and Blob storage
-Using the Azure CLI with Azure Storage
-Set and retrieve properties and metadata
-https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-tool-setting-properties-metadata-import-v1
-Manage container properties and metadata with .NET
+<h3>3.Set and retrieve properties and metadata</h3>
+<a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-properties-metadata'>3.1 Manage properties and meta data</a><br>
 
-Interact with data using the appropriate SDK
-https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-dotnet
+<h3>4.Set and retrieve properties and metadata</h3>
+<a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-properties-metadata'>4.1 Manage properties and meta data</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-list'>4.2 Create and Manage Blobs</a><br>
 
-Implement data archiving and retention
-Pluralsight: Archiving a blob
-Store business-critical blob data with immutable storage
-Rehydrate blob data from the archive tier
+Pluralsight Video : Implementing Blob Storage - 6. Storing Metadata on Your Blobs explains blob meta data well.<br/>
+https://app.pluralsight.com/course-player?clipId=c48dcee7-a51f-40c0-aad3-e60f3d7a4ca2 <br/>
 
-Implement hot, cool, and archive storage
-Azure Blob storage: hot, cool, and archive access tiers
-https://www.craftedforeveryone.com/beginners-guide-and-reference-to-azure-blob-storage-sdk-v12-dot-net-csharp/#creating_a_storage_container_if_it_does_not_exist
-https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-list?tabs=dotnet
+<h3>5.Interact with data using the appropriate SDK</h3>
+<a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-dotnet'>5.1 Azure Blob storage client library v12 for .NET</a><br>
+
+<h3>6.Implement data archiving and retention</h3>
+<a href='https://app.pluralsight.com/course-player?clipId=92a4c315-3cc0-41bd-a5bb-5f619d2a9be4'>6.1 Pluralsight: Archiving a blob</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-immutable-storage'>6.2 Store business-critical blob data with immutable storage</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-rehydration'>6.3 Rehydrate blob data from the archive tier</a><br>
+
+<h3>7.Implement hot, cool, and archive storage</h3>
+<a href='https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-storage-tiers'>7.1 Azure Blob storage: hot, cool, and archive access tiers</a><br>
+
+<h2>C.Additional Links:</h2>
+<b>Blob storage with .NET:</b><a href='https://www.craftedforeveryone.com/beginners-guide-and-reference-to-azure-blob-storage-sdk-v12-dot-net-csharp'>NET SDK v12 Blob storage</a><br>
+
 
 
 
