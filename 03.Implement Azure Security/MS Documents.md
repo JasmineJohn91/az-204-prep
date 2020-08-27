@@ -12,7 +12,7 @@
 <a href='https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-users-azure-active-directory'>2.3 Add users in AAD</a><br>
 
 <h3>3. Microsoft Identity</h3>
-<a href='https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-overview'>3.1 What is Microsoft Identity/a><br>
+<a href='https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-overview'>3.1 What is Microsoft Identity</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-create-new-tenant'>3.2 Setup a tenant</a><br>
 
 <h3>4. Register apps and use Azure Active Directory to authenticate users</h3>
@@ -39,20 +39,20 @@
 
 <h2>B.Implement Secure Cloud Solutions</h2>
 
-<h3>1.Secure app configuration data by using the App Configuration and KeyVault API</h3>
+<h3>1. Secure app configuration data by using the App Configuration and KeyVault API</h3>
 <a href='https://docs.microsoft.com/en-us/azure/azure-app-configuration/overview'>1.1 What is Azure App Configuration?</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-aspnet-core-app?tabs=core2x'>1.2 Create an ASP.NET Core app with Azure App Configuration</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/key-vault/general/vs-secure-secret-appsettings'>1.3 Securely save secret application settings for a web application</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/app-service/app-service-key-vault-references'>1.4 Use Key Vault references for App Service and Azure Functions</a><br>
 
-<h3>2.Manage keys, secrets, and certificates by using the KeyVault API</h3>
+<h3>2. Manage keys, secrets, and certificates by using the KeyVault API</h3>
 <a href='https://docs.microsoft.com/en-us/azure/key-vault/general/overview'>2.1 Azure Key Vault Overview</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/key-vault/general/about-keys-secrets-certificates'>2.2 About keys, secrets, and certificates</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/key-vault/general/quick-create-cli'>2.3 Create Key vault using Azure CLI</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/key-vault/general/soft-delete-overview'>2.4 Azure Key Vault Soft Delete</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/key-vault/secrets/overview-storage-keys'>2.5 Manage storage account keys with Key Vault and the Azure CLI</a><br>
 
-<h3>3.Implement Managed Identities for Azure resources</h3>
+<h3>3. Implement Managed Identities for Azure resources</h3>
 <a href='https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview'>3.1 What are managed identities?</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/qs-configure-portal-windows-vm'>3.2 Configure managed identities for Azure resources on a VM using the Azure portal</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/app-service/overview-managed-identity'>3.3 How to use managed identities for App Service and Azure Functions</a><br>
