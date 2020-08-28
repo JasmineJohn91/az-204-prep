@@ -1,3 +1,4 @@
+Connect to and consume Azure services and third-party services (25-30%)
 Develop an App Service Logic App
 Create a Logic App
 https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-first-logic-app-workflow
@@ -54,4 +55,7 @@ Implement solutions that use Azure Queue Storage queues
 What are Azure queues?
 Get started with Azure Queue storage using .NET
 https://docs.microsoft.com/en-us/azure/storage/queues/storage-tutorial-queues
+
+
+
 
