@@ -1,17 +1,22 @@
-Connect to and consume Azure services and third-party services (25-30%)
-Develop an App Service Logic App
-Create a Logic App
-https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-first-logic-app-workflow
-(Quick start 3 topics)
-Create a custom connector for Logic Apps
-https://docs.microsoft.com/en-us/connectors/custom-connectors/define-blank
-https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-overview?WT.mc_id=thomasmaurer-blog-thmaure
+<h1>Connect to and consume Azure services and third-party services (25-30%)</h1>
+<h2>A.Develop an App Service Logic App</h2>
 
-Create a custom template for Logic Apps
-https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-azure-resource-manager-templates
-https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-logic-apps-from-templates?WT.mc_id=thomasmaurer-blog-thmaure
-https://docs.microsoft.com/en-us/azure/event-grid/monitor-virtual-machine-changes-event-grid-logic-app
+<h3>1. Create a Logic App</h3>
+<a href='https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview'>1.1 What is Azure Logic App?</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-first-logic-app-workflow'>1.2 Create your first automated integration workflow by using Azure Logic Apps - Azure portal</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-deploy-azure-resource-manager-template'>1.3 Create and deploy a logic app workflow by using an ARM template</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-azure-resource-manager-templates'>1.4 Create ARM templates to automate deployment for Azure Logic Apps</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview'>1.5 https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-deploy-azure-resource-manager-templates</a><br>
 
+<h3>2. Create a custom connector for Logic Apps</h3>
+<a href='https://docs.microsoft.com/en-us/connectors/custom-connectors/define-blank'>2.1 Create a custom connector from scratch</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-enterprise-integration-overview'>2.2 B2B enterprise integration solutions with Azure Logic Apps and Enterprise Integration Pack</a><br>
+
+<h3>3. Create a custom template for Logic Apps</h3>
+<a href='https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-logic-apps-from-templates'>3.1 Create logic app workflows from prebuilt templates</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/event-grid/monitor-virtual-machine-changes-event-grid-logic-app'>3.2 Monitor virtual machine changes by using Azure Event Grid and Logic Apps</a><br>
+
+///Need to correct
 Implement API management
 Create an APIM instance
 https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance
