@@ -6,9 +6,9 @@
 
 <h2>2. Microsoft Learning Modules</h2>
 <a href='https://docs.microsoft.com/en-au/learn/paths/connect-your-services-together/'>1. Connect your services together</a><br>
-<a href='https://docs.microsoft.com/en-au/learn/modules/react-to-state-changes-using-event-grid/'>2.React to state changes in your Azure services by using Event Grid</a><br>
-<a href='https://docs.microsoft.com/en-au/learn/paths/build-workflows-with-logic-apps/'>3.Build automated workflows to integrate data and apps with Azure Logic Apps</a><br>
-<a href='https://docs.microsoft.com/en-au/learn/modules/publish-manage-apis-with-azure-api-management/'>4.Publish and manage your APIs with Azure API Management</a><br>
+<a href='https://docs.microsoft.com/en-au/learn/modules/react-to-state-changes-using-event-grid/'>2. React to state changes in your Azure services by using Event Grid</a><br>
+<a href='https://docs.microsoft.com/en-au/learn/paths/build-workflows-with-logic-apps/'>3. Build automated workflows to integrate data and apps with Azure Logic Apps</a><br>
+<a href='https://docs.microsoft.com/en-au/learn/modules/publish-manage-apis-with-azure-api-management/'>4. Publish and manage your APIs with Azure API Management</a><br>
 
 <h2>3. Microsoft Documents</h2>
 Micorosoft documents are added in below link with section details for your reference. <br>
