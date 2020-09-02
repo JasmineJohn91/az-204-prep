@@ -42,31 +42,50 @@
 <a href='https://docs.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event'>1.5 Automate resizing uploaded images using Event Grid</a><br>
 
 <h3>2. Implement solutions that use Azure Notification Hubs</h3>
+<a href='https://docs.microsoft.com/en-us/azure/notification-hubs/notification-hubs-push-notification-overview'>2.1 What is Azure Notification Hub?</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/notification-hubs/notification-hubs-app-service'>2.2 Integration with App Service Mobile Apps</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/notification-hubs/create-notification-hub-portal'>2.3 Create an Azure notification hub in the Azure portal</a><br>
+<a href='https://docs.microsoft.com/en-us/dotnet/api/overview/azure/notification-hubs?view=azure-dotnet2.4 Azure Notification Hubs libraries for .NET</a><br>
+
+<h3>3. Implement solutions that use Azure Event Hub</h3>
+<a href='https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about'>3.1 What is Azure Event Hub?</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-features'>3.2 Features and terminology in Azure Event Hubs</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-create'>3.3 Quickstart: Create an event hub using Azure portal</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send'>3.4 Send events to and receive events from Azure Event Hubs - .NET</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-tutorial-visualize-anomalies'>3.5 Visualize data anomalies in real-time events sent to Azure Event Hubs</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-real-time-fraud-detection'>3.6 Azure Stream Analytics: Real-time fraud detection</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-twitter-sentiment-analysis-trends'>3.7 Real-time Twitter sentiment analysis in Azure Stream Analytics</a><br>
+
+<h2>D.Develop Message-based Solutions</h2>
+<h3>1. Implement solutions that use Azure Service Bus</h3>
+<a href='https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview'>1.1 What is Azure Service Bus?</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-transactions'>1.2 Overview of Service Bus transaction processing</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/service-bus-messaging/message-sequencing#scheduled-messages'>1.3 Scheduled Messages</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dead-letter-queues'>1.4 Service Bus Dead Letter Queue</a><br>
+
+<h4>1.1. Service Bus Queue</h4>
+<a href='https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-portal'>1.1.1 Use Azure portal to create a Service Bus namespace and a queue</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-powershell'>1.1.2 Use Azure PowerShell to create a Service Bus namespace and a queue</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-get-started-with-queues'>1.1.3 Send and Receive Messages</a><br>
+
+<h4>1.2. Service Bus Topic</h4>
+<a href='https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-topics-subscriptions-portal'>1.2.1 Create Topics and Subscription</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-how-to-use-topics-subscriptions'>1.2.2 Publish and Subscribe for Messages</a><br>
+
+<h3>2. Implement solutions that use Azure Queue Storage queues</h3>
+<a href='https://docs.microsoft.com/en-us/azure/storage/queues/storage-queues-introduction'>2.1 What are Azure queues?</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create'>2.2 Create Storage account </a><br>
+<a href='https://docs.microsoft.com/en-us/azure/storage/queues/storage-quickstart-queues-portal'>2.3 Create a queue and add a message with the Azure portal </a><br>
+<a href='https://docs.microsoft.com/en-us/azure/storage/queues/storage-dotnet-how-to-use-queues'>2.4 Get started with Azure Queue storage using .NET</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/storage/queues/storage-tutorial-queues'>2.5 Work with Azure storage queues in .NET</a><br>
+
+<h3>2.1 Secure Queue Data</h3>
+<a href='https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad-rbac-powershell?toc=/azure/storage/queues/toc.json'>2.1.1 Manage Access rights with RBAC</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage-blob-data-contributor'>2.1.2 storage-blob-data-contributor</a><br>
 
 
-What is Azure Notification Hubs?
-Integration with App Service Mobile Apps
-Create an Azure notification hub in the Azure portal
-https://docs.microsoft.com/en-us/azure/notification-hubs/notification-hubs-android-push-notification-google-fcm-get-started
-https://docs.microsoft.com/en-us/azure/notification-hubs/notification-hubs-android-push-notification-google-gcm-get-started
-Implement solutions that use Azure Event Hub
-Features and terminology in Azure Event Hubs
-Quickstart: Create an event hub using Azure portal
-Tutorial: Stream data into Azure Databricks using Event Hubs
-https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-tutorial-visualize-anomalies
-https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-real-time-fraud-detection
-https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-twitter-sentiment-analysis-trends
 
-Develop Message-based Solutions
-Implement solutions that use Azure Service Bus
-What is Azure Service Bus?
-Quickstart: Use Azure portal to create a Service Bus queue
-Get started with Service Bus queues
-https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-tutorial-topics-subscriptions-powershell
-Implement solutions that use Azure Queue Storage queues
-What are Azure queues?
-Get started with Azure Queue storage using .NET
-https://docs.microsoft.com/en-us/azure/storage/queues/storage-tutorial-queues
+
 
 
 
