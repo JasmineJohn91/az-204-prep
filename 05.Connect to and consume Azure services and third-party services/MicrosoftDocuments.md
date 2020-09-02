@@ -16,27 +16,34 @@
 <a href='https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-logic-apps-from-templates'>3.1 Create logic app workflows from prebuilt templates</a><br>
 <a href='https://docs.microsoft.com/en-us/azure/event-grid/monitor-virtual-machine-changes-event-grid-logic-app'>3.2 Monitor virtual machine changes by using Azure Event Grid and Logic Apps</a><br>
 
-///Need to correct
-Implement API management
-Create an APIM instance
-https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance
-Configure authentication for APIs
-https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-mutual-certificates-for-clients
-Define policies for APIs
-https://docs.microsoft.com/en-us/azure/api-management/set-edit-policies
-https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-policies?WT.mc_id=thomasmaurer-blog-thmaure
-https://docs.microsoft.com/en-us/azure/api-management/api-management-policies?WT.mc_id=thomasmaurer-blog-thmaure
-https://docs.microsoft.com/en-us/azure/azure-monitor/app/correlation
-https://docs.microsoft.com/en-us/azure/api-management/api-management-caching-policies
-Develop Event-based Solutions
-Implement solutions that use Azure Event Grid
-What is Azure Event Grid?
-Event-Driven Architecture in the Cloud with Azure Event Grid
-Quickstart: Route custom events to web endpoint with the Azure portal and Event Grid
-Tutorial: Monitor virtual machine changes by using Azure Event Grid and Logic Apps
-https://docs.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event?tabs=dotnet
+<h2>B.Implement API management</h2>
 
-Implement solutions that use Azure Notification Hubs
+<h3>1. Create an APIM instance</h3>
+<a href='https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts'>1.1 API Management Key Concepts</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance'>1.2 Create a new Azure API Management service instance</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/api-management/import-and-publish'>1.3 Tutorial -Import ,Publish and Manage APIs</a><br>
+
+<h3>2. Configure authentication for APIs</h3>
+<a href='https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-mutual-certificates-for-clients'>2.1 secure APIs using client certificate authentication in API Management</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-protect-backend-with-aad'>2.2 Protect an API by using OAuth 2.0 with Azure Active Directory and API Management</a><br>
+
+<h3>3. Define policies for APIs</h3>
+<a href='https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-policies'>3.1 Policies in Azure API Management</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/api-management/api-management-policies'>3.2 Policy reference index</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/api-management/set-edit-policies'>3.3 Set or Edit Policy</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/api-management/api-management-caching-policies'>3.4 API Management caching policies</a><br>
+
+<h2>C.Develop Event-based Solutions</h2>
+<h3>1. Implement solutions that use Azure Event Grid</h3>
+<a href='https://docs.microsoft.com/en-us/azure/event-grid/overview'>1.1 What is Azure Event Grid?</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/event-grid/blob-event-quickstart-portal'>1.2 Create Storage Event</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/event-grid/custom-event-quickstart-portal'>1.3 Create Custom Event</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/event-grid/monitor-virtual-machine-changes-event-grid-logic-app'>1.4 Tutorial: Monitor virtual machine changes by using Azure Event Grid and Logic Apps</a><br>
+<a href='https://docs.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event'>1.5 Automate resizing uploaded images using Event Grid</a><br>
+
+<h3>2. Implement solutions that use Azure Notification Hubs</h3>
+
+
 What is Azure Notification Hubs?
 Integration with App Service Mobile Apps
 Create an Azure notification hub in the Azure portal
